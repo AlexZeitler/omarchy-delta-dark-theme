@@ -1,0 +1,36 @@
+# Delta - Dark
+# Navy ground. Every slot is a red, a blue or a blue-grey.
+mode = "dark"
+
+accent = "#6cace4"
+hyprland_active_border = "rgba(6cace4ff) rgba(2f7ae5ff) rgba(f5384fff) 45deg"
+selection = "#123a6e"
+muted = "#6b88ad"
+
+background = "#06182f"
+dark_background = "#041022"
+darker_background = "#020a16"
+lighter_background = "#123258"
+
+foreground = "#dde5f2"
+dark_foreground = "#8ba2c2"
+light_foreground = "#c8d4e6"
+bright_foreground = "#ffffff"
+
+red = "#f5384f"
+orange = "#e8707a"
+magenta = "#e04b7d"
+brown = "#8a4a52"
+
+blue = "#4587dd"
+cyan = "#6cace4"
+green = "#2f8fd4"
+yellow = "#8a9db5"
+
+bright_red = "#ff6b7d"
+bright_orange = "#ff9aa0"
+bright_magenta = "#f57ba5"
+bright_blue = "#7aabee"
+bright_cyan = "#9fd3ff"
+bright_green = "#63b4ea"
+bright_yellow = "#b0bfd4"
